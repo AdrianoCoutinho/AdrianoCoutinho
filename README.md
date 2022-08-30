@@ -1,11 +1,9 @@
-<img align="right" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Illustration" title="Illustration Storyset" width=450/>
-    
-<h1 align="left">Olá, meu nome é Adriano</h1>
-
 ![Profile views](https://gpvc.arturio.dev/AdrianoCoutinho)
-
-<h3 align="left">Sou apaixonado por tecnologia! 🚀</h3>
-
+<div align="center">
+<h1 align="center">Olá, meu nome é Adriano</h1>
+<h3 align="center">Bem vindo ao meu GitHub! 🚀</h3>
+<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Illustration" title="Illustration Storyset" width=450/>
+<p></p>
 <div align="left">
     <h3>👨🏽‍💻 Sobre mim:</h3>
         <p>• 📚 Estudando atualmente: <b>Programa Starter Full Stack Web Developer na GrowDev.</b></p>
@@ -13,10 +11,8 @@
         <p>• 💬 Pergunte-me sobre: <b>Qualquer coisa, honestamente, eu sou bastante curioso e gosto de aprender sobre várias coisas.</b></p>
         <p>• 📫 Como me achar: <b>adriano.98@outlook.com</b></p>
 </div><br>
-
-<div align="center">
-    <img height="155em" src="https://github-readme-stats.vercel.app/api?username=AdrianoCoutinho&show_icons=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&locale=en&hide_border=true&bg_color=bbb8b2" alt="Adriano Coutinho" />
-    <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs?username=AdrianoCoutinho&show_icons=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&layout=compact&hide_border=true&bg_color=bbb8b2" alt="Adriano Coutinho" />
+<img height="155em" src="https://github-readme-stats.vercel.app/api?username=AdrianoCoutinho&show_icons=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&locale=en&hide_border=true&bg_color=bbb8b2" alt="Adriano Coutinho"/>
+<img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs?username=AdrianoCoutinho&show_icons=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&layout=compact&hide_border=true&bg_color=bbb8b2" alt="Adriano Coutinho" />
 </div>
     
 ---
