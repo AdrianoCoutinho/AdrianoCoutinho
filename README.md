@@ -34,7 +34,9 @@
     <a href="https://"><img src="https://aleen42.github.io/badges/src/photoshop.svg" alt="Photoshop"></a>
     <a href="https://"><img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint"></a>
     <a href="https://"><img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" alt="Prettier"></a>
+    
     ---
+    
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=GIT&color=%23F05032&style=for-the-badge&logo=git&logoColor=whitesmoke" alt="GIT"></a>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=GITHUB&color=%23181717&style=for-the-badge&logo=github&logoColor=whitesmoke" alt="GITHUB"></a>
     <a href="https://"><img src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"></a>
