@@ -1,3 +1,4 @@
+![Profile views](https://gpvc.arturio.dev/AdrianoCoutinho)
 <div align="center">
 <h1 align="center">Olá, meu nome é Adriano</h1>
 <h3 align="center">Bem vindo ao meu GitHub! 🚀</h3>
