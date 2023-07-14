@@ -1,4 +1,3 @@
-![Profile views](https://gpvc.arturio.dev/AdrianoCoutinho)
 <div align="center">
 <h1 align="center">Olá, meu nome é Adriano</h1>
 <h3 align="center">Bem vindo ao meu GitHub! 🚀</h3>
@@ -10,9 +9,13 @@
         <p>• ℹ️ Hobbies: <b>Games 🎮 | Music 🎧 | Carros :oncoming_automobile: (principalmente)</b></p>
         <p>• 💬 Pergunte-me sobre: <b>Qualquer coisa, honestamente, eu sou bastante curioso e gosto de aprender sobre várias coisas.</b></p>
         <p>• 📫 Como me achar: <b>adriano.98@outlook.com</b></p>
-</div><br>
-<img height="155em" src="https://github-readme-stats.vercel.app/api?username=AdrianoCoutinho&show_icons=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&locale=en&hide_border=true&bg_color=bbb8b2" alt="Adriano Coutinho"/>
-<img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs?username=AdrianoCoutinho&show_icons=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&layout=compact&hide_border=true&bg_color=bbb8b2" alt="Adriano Coutinho" />
+</div>
+</div>
+
+<div>
+<a href="https://github.com/AdrianoCoutinho">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianoCoutinho&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdrianoCoutinho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
     
 ---
