@@ -5,7 +5,7 @@
 <p></p>
 <div align="left">
     <h3>👨🏽‍💻 Sobre mim:</h3>
-        <p>• 📚 Estudando atualmente: <b>Programa Starter Full Stack Web Developer na GrowDev.</b></p>
+        <p>• 📚 Conhecimento de 2 anos como Full Stack Web Developer  </p>
         <p>• ℹ️ Hobbies: <b>Games 🎮 | Music 🎧 | Carros :oncoming_automobile: (principalmente)</b></p>
         <p>• 💬 Pergunte-me sobre: <b>Qualquer coisa, honestamente, eu sou bastante curioso e gosto de aprender sobre várias coisas.</b></p>
         <p>• 📫 Como me achar: <b>adriano.dfcoutinho@gmail.com</b></p>
