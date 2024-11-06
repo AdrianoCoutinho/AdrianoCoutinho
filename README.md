@@ -8,7 +8,7 @@
         <p>• 📚 Estudando atualmente: <b>Programa Starter Full Stack Web Developer na GrowDev.</b></p>
         <p>• ℹ️ Hobbies: <b>Games 🎮 | Music 🎧 | Carros :oncoming_automobile: (principalmente)</b></p>
         <p>• 💬 Pergunte-me sobre: <b>Qualquer coisa, honestamente, eu sou bastante curioso e gosto de aprender sobre várias coisas.</b></p>
-        <p>• 📫 Como me achar: <b>adriano.98@outlook.com</b></p>
+        <p>• 📫 Como me achar: <b>adriano.dfcoutinho@gmail.com</b></p>
 </div>
 </div>
 
