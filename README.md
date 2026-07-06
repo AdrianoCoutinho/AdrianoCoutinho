@@ -2,6 +2,12 @@
 <h1 align="center">Olá, meu nome é Adriano! 👋</h1>
 <h3 align="center">Desenvolvedor Full Stack — em busca da primeira oportunidade formal 🚀</h3>
 <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Illustration" title="Illustration Storyset" width=450/>
+
+<p>
+  <a href="https://adrianocoutinho.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfólio-adrianocoutinho.vercel.app-blue?style=for-the-badge" alt="Portfólio Online"/>
+  </a>
+</p>
 </div>
 
 <div>
@@ -14,6 +20,7 @@
     <p>• 🎮 Hobbies: <b>Games | Music | Carros 🏎️</b></p>
     <p>• 💬 Pergunte-me sobre: <b>qualquer coisa — sou bastante curioso e gosto de aprender</b></p>
     <p>• 📫 Contato: <b>adriano.dfcoutinho@gmail.com</b></p>
+    <p>• 🌐 Portfólio: <a href="https://adrianocoutinho.vercel.app"><b>adrianocoutinho.vercel.app</b></a></p>
 </div>
 
 <div align="center">
@@ -80,7 +87,9 @@ NestJS aprofundado · arquitetura escalável · Cloud/VPS · CI/CD · testes aut
 
 ### 📱 Vamos conversar?
 
+<a href="https://adrianocoutinho.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfólio-1E90FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"></a>
 <a href="https://www.linkedin.com/in/adrianodfc/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=whitesmoke" alt="LinkedIn"></a>
+<a href="https://wa.me/5521980073031?text=Ol%C3%A1%20Adriano%2C%20vi%20seu%20GitHub!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
 <a href="mailto:adriano.dfcoutinho@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://github.com/AdrianoCoutinho"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 
