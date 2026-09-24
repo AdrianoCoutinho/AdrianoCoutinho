@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Olá, meu nome é Adriano! 👋</h1>
-<h3 align="center">Desenvolvedor Full Stack — em busca da primeira oportunidade formal 🚀</h3>
+<h3 align="center">Desenvolvedor Full Stack</h3>
 <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Illustration" title="Illustration Storyset" width=450/>
 
 <p>
@@ -16,7 +16,6 @@
     <p>• 🎓 Formado pelo programa <b>Full Stack Web Developer (1.000h) da Growdev</b></p>
     <p>• 🎓 Cursando <b>Análise e Desenvolvimento de Sistemas</b> na Estácio — bolsista <b>ProUni 100%</b></p>
     <p>• 🔧 Mexo com tecnologia desde os 13 anos — hardware, redes, CFTV e automação/IoT viraram meu diferencial</p>
-    <p>• 🎯 <b>Em busca da primeira oportunidade formal</b> como Desenvolvedor (júnior, trainee ou estágio)</p>
     <p>• 🎮 Hobbies: <b>Games | Music | Carros 🏎️</b></p>
     <p>• 💬 Pergunte-me sobre: <b>qualquer coisa — sou bastante curioso e gosto de aprender</b></p>
     <p>• 📫 Contato: <b>adriano.dfcoutinho@gmail.com</b></p>
@@ -24,6 +23,10 @@
 </div>
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=AdrianoCoutinho&rank_icon=percentile&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=AdrianoCoutinho&rank_icon=percentile&include_all_commits=true&theme=dark_github)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=AdrianoCoutinho&langs_count=4&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=AdrianoCoutinho&langs_count=4&theme=dark_github)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=alan&langs_count=6&theme=dark_github)](https://wakatime.com/@alan)
 
 ---
 
