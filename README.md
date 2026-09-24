@@ -23,9 +23,7 @@
     <p>• 🌐 Portfólio: <a href="https://adrianocoutinho.vercel.app"><b>adrianocoutinho.vercel.app</b></a></p>
 </div>
 
-<div align="center">
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=AdrianoCoutinho&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=AdrianoCoutinho&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=transparent)
-</div>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=AdrianoCoutinho&rank_icon=percentile&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=AdrianoCoutinho&rank_icon=percentile&include_all_commits=true&theme=dark_github)
 
 ---
 
